@@ -8,9 +8,9 @@ A small Node program that writes one one-line joke about office life to `/output
 
 ## What it writes
 
-One line, 101 characters, original and written for this competition:
+One line, 106 characters, original and written for this competition:
 
-> I finally got promoted: same desk, same pay, but now the meetings I sleep through are the ones I run.
+> I finally got promoted: same desk, same pay, but the meetings I used to sleep through are now mine to run.
 
 ## Run it
 

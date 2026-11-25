@@ -13,7 +13,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 
 const JOKE =
-  "I finally got promoted: same desk, same pay, but now the meetings I sleep through are the ones I run.";
+  "I finally got promoted: same desk, same pay, but the meetings I used to sleep through are now mine to run.";
 
 // The gate: 1 to 200 characters, counted as Unicode code points.
 const length = [...JOKE].length;
